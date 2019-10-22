@@ -7,7 +7,7 @@ $(document).ready(function() {
     $(".javascript").click(function() {
       console.log("Hello");
       $(".back").toggle();
-      $(".front").toggle();
+      // $(".front").toggle();
     });
     $(".operators").click(function() {
       console.log("Hello");
